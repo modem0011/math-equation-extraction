@@ -3,5 +3,5 @@ Team members : Modem Praveen(https://github.com/modem0011) ,Modem Naveen (https:
 •	  Here we extracted polynomial equations and finally tried to evaluate primary school children answer sheets.</br>
 •	  Used Convolutional Neural Networks and Opencv.
 
-# Uploaded one more readme file which contains steps to run codes.
+# Uploaded one more readme file which contains steps to run codes
 
